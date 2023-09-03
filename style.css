@@ -1,0 +1,68 @@
+
+figure{
+    text-align: center;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #d6cfcf;
+    color: #333;
+    font-weight: normal;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 20px;
+}
+
+h1 {
+    font-family: "Times New Roman", serif;
+    font-style: italic;
+    color: #0074d9;
+}
+
+a {
+    text-decoration: none;
+    color: #0074d9;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #ff4136;
+}
+
+#habilidades ol {
+    background-color: #29b869;
+    font-weight: bold;
+}
+
+#educacao{
+    background-color: #bbc93c;
+    font-weight: bolder;
+}
+
+section:nth-of-type(2) {
+    background-color: #2973b8;
+    padding: 20px;
+    font-style: italic;
+    color: #555555;
+}
+
+#hobbies ul {
+    font-family: sans-serif;
+    list-style-type: square;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+#links nav {
+    background-color: #97ad84;
+    color: #fff;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    color: #888;
+}
